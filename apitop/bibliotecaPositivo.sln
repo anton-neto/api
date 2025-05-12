@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apitop", "apitop\apitop.csproj", "{AF4A4EB0-C0EA-D141-7EBB-63612C022334}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibliotecaPositivo", "bibliotecaPositivo.csproj", "{8C0BFCCC-3068-ABAC-A942-D0FFADDCE8DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF4A4EB0-C0EA-D141-7EBB-63612C022334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF4A4EB0-C0EA-D141-7EBB-63612C022334}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF4A4EB0-C0EA-D141-7EBB-63612C022334}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF4A4EB0-C0EA-D141-7EBB-63612C022334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0BFCCC-3068-ABAC-A942-D0FFADDCE8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0BFCCC-3068-ABAC-A942-D0FFADDCE8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0BFCCC-3068-ABAC-A942-D0FFADDCE8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0BFCCC-3068-ABAC-A942-D0FFADDCE8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D8BA8AA4-B69F-4483-B3D1-B8458307E41A}
+		SolutionGuid = {F39899E2-A6EC-4798-8C04-B0F242E6419F}
 	EndGlobalSection
 EndGlobal

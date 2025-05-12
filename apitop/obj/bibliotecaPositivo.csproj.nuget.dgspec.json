@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\Downloads\\apitop\\apitop\\apitop.csproj": {}
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\Downloads\\apitop\\apitop\\apitop.csproj": {
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\Downloads\\apitop\\apitop\\apitop.csproj",
-        "projectName": "apitop",
-        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Downloads\\apitop\\apitop\\apitop.csproj",
+        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj",
+        "projectName": "bibliotecaPositivo",
+        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj",
         "packagesPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Downloads\\apitop\\apitop\\obj\\",
+        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANTONIOADAIRCABREIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,16 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[8.0.13, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.6.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
