@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bibliotecaPositivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77533119bfc7a5bfeae4eb5b272c8545c766656c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b6a21047a569613113ce1561d8b828055c657e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("bibliotecaPositivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bibliotecaPositivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

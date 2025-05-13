@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj": {}
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\api\\apitop\\bibliotecaPositivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj": {
+    "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\api\\apitop\\bibliotecaPositivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj",
+        "projectUniqueName": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\api\\apitop\\bibliotecaPositivo.csproj",
         "projectName": "bibliotecaPositivo",
-        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\bibliotecaPositivo.csproj",
+        "projectPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\api\\apitop\\bibliotecaPositivo.csproj",
         "packagesPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\aula05-05-2025\\obj\\",
+        "outputPath": "C:\\Users\\ANTONIOADAIRCABREIRA\\Desktop\\api\\apitop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANTONIOADAIRCABREIRA\\AppData\\Roaming\\NuGet\\NuGet.Config"
